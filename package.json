@@ -4,7 +4,7 @@
   "description": "Working through Daniel Shiffman's The Nature of Code. Made a Genetic Algorithm for 2D cars.",
   "main": "sketch.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel sketch.js -d lib"
   },
   "repository": {
     "type": "git",
