@@ -1,0 +1,23 @@
+{
+  "name": "smartcars",
+  "version": "1.0.0",
+  "description": "Working through Daniel Shiffman's The Nature of Code. Made a Genetic Algorithm for 2D cars.",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMCProgrammingClub/smartcars.git"
+  },
+  "author": "Enrique Piqueras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SMCProgrammingClub/smartcars/issues"
+  },
+  "homepage": "https://github.com/SMCProgrammingClub/smartcars#readme",
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-preset-es2015": "^6.16.0"
+  }
+}
