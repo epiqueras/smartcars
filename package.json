@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SMCProgrammingClub/smartcars.git"
+    "url": "git+https://github.com/epiqueras/smartcars.git"
   },
   "author": "Enrique Piqueras",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SMCProgrammingClub/smartcars/issues"
+    "url": "https://github.com/epiqueras/smartcars/issues"
   },
-  "homepage": "https://github.com/SMCProgrammingClub/smartcars#readme",
+  "homepage": "https://github.com/epiqueras/smartcars#readme",
   "devDependencies": {
     "babel-cli": "^6.16.0",
     "babel-preset-es2015": "^6.16.0"
